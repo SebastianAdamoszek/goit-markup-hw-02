@@ -1,6 +1,7 @@
 body {
   font-family: "roboto", sans-serif;
   font-style: normal;
+  font-size: 16px; 
   background: #ffffff;
   color: #212121;
 }
@@ -71,6 +72,7 @@ a:focus {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   color: #ffffff;
   cursor: pointer;
+  font-family: "roboto";
   font-weight: 700;
   font-size: 16px;
   line-height: 1.60;
@@ -93,15 +95,17 @@ a:focus {
 }
 
 .butoon-portfolio {
+  font-family: "roboto";
+  font-size: 16px;
+  font-style: medium;
+  font-weight: 500;
+  line-height: 1.39;
   background: #f5f4fa;
   cursor: pointer;
   border: #f5f4fa;
   border-radius: 4px;
   display: inline;
   text-align: center;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.39;
   letter-spacing: 0.03em;
   margin: 0px 8px 0px 0px;
   padding: 6px 22px 6px 22px;
@@ -115,20 +119,32 @@ a:focus {
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .description-person {
-  text-align: center;
+  font-style: medium;
   font-weight: 400;
-  font-size: 16px;
   letter-spacing: 0.03em;
 }
-.description-project {
+.description-person :last-of-type {
+  Font-style: Regular;
+  color: #757575;
+}
+ .description-project {
   font-weight: 700;
-  font-style: Bold;
-  font-size: 18px;
-  line-height: 1.71;
+  Font-style: Bold;
+  Font-size: 18px;
+  Line-height: 1.71;
   text-align: Left;
   vertical-align: Top;
-  letter-spacing: 6%;
+  Letter-spacing: 6%;  
 }
+.description-project :last-of-type {
+  font-weight: 400;
+  Font-style: Regular;
+  Font-size: 16px;
+  Line-height: 1.6;
+  Letter-spacing: 3%;  
+  color: #757575;
+}
+
 .white-link {
   font-style: normal;
   color: #ffffff;
