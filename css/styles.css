@@ -9,13 +9,13 @@ footer {
   background: #2f303a;
   font-weight: 400;
   font-size: 14px;
-  line-height: 146%;
+  line-height: 1,46;
   letter-spacing: 0.03em;
 }
 h1 {
   font-weight: 900;
   font-size: 44px;
-  line-height: 116%;
+  line-height: 1,16;
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
@@ -73,7 +73,7 @@ a:focus {
   cursor: pointer;
   font-weight: 700;
   font-size: 16px;
-  line-height: 160%;
+  line-height: 1,60;
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
@@ -82,7 +82,7 @@ a:focus {
 .our-strengths {
   font-weight: 400;
   font-size: 14px;
-  line-height: 146%;
+  line-height: 1,46;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -101,7 +101,7 @@ a:focus {
   text-align: center;
   font-weight: 500;
   font-size: 16px;
-  line-height: 139%;
+  line-height: 1,39;
   letter-spacing: 0.03em;
   margin: 0px 8px 0px 0px;
   padding: 6px 22px 6px 22px;
@@ -124,7 +124,7 @@ a:focus {
   font-weight: 700;
   font-style: Bold;
   font-size: 18px;
-  line-height: 171%;
+  line-height: 1,71;
   text-align: Left;
   vertical-align: Top;
   letter-spacing: 6%;
