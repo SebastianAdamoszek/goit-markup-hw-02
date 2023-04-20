@@ -1,6 +1,7 @@
 body {
   font-family: "roboto", sans-serif;
   font-style: normal;
+  font-weight: 400;
   font-size: 16px; 
   background: #ffffff;
   color: #212121;
@@ -8,7 +9,6 @@ body {
 
 footer {
   background: #2f303a;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.6;
   letter-spacing: 0.03em;
@@ -45,7 +45,6 @@ a:focus {
 .logo {
   font-family: "raleway", sans-serif;
   color: #2196f3;
-  font-style: normal;
   font-size: 26px;
   letter-spacing: 0.03em;
 }
@@ -82,7 +81,6 @@ a:focus {
   padding: 10px 41px 10px 41px;
 }
 .our-strengths {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.46;
   letter-spacing: 0.03em;
@@ -120,7 +118,6 @@ a:focus {
 }
 .description-person {
   font-style: medium;
-  font-weight: 400;
   letter-spacing: 0.03em;
 }
 .description-person :last-of-type {
@@ -137,7 +134,6 @@ a:focus {
   Letter-spacing: 6%;  
 }
 .description-project :last-of-type {
-  font-weight: 400;
   Font-style: Regular;
   Font-size: 16px;
   Line-height: 1.6;
@@ -146,10 +142,8 @@ a:focus {
 }
 
 .white-link {
-  font-style: normal;
   color: #ffffff;
 }
 .gray-link {
-  font-style: normal;
   color: rgba(255, 255, 255, 0.6);
 }
