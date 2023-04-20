@@ -142,8 +142,10 @@ a:focus {
 }
 
 .white-link {
+  font-style: normal;
   color: #ffffff;
 }
 .gray-link {
+  font-style: normal;
   color: rgba(255, 255, 255, 0.6);
 }
