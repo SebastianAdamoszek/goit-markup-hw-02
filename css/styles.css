@@ -86,12 +86,6 @@ a:focus {
   letter-spacing: 0.03em;
   color: #757575;
 }
-.menu {
-  display: flex;
-  justify-content: center;
-  margin-left: -25px;
-}
-
 .butoon-portfolio {
   font-family: "roboto";
   font-size: 16px;
