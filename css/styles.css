@@ -117,11 +117,9 @@ a:focus {
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .description-person {
-  font-style: medium;
   letter-spacing: 0.03em;
 }
 .description-person :last-of-type {
-  Font-style: Regular;
   color: #757575;
 }
  .description-project {
@@ -134,7 +132,6 @@ a:focus {
   Letter-spacing: 6%;  
 }
 .description-project :last-of-type {
-  Font-style: Regular;
   Font-size: 16px;
   Line-height: 1.6;
   Letter-spacing: 3%;  
